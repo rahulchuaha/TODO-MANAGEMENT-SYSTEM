@@ -6,3 +6,5 @@ and advanced exception handling to ensure system reliability. Leveraging Spring 
 deleting, and retrieving tasks, making it a user-friendly and responsive application. Additionally, I employed the Maven build tool for project management and Lombok for streamlined code development.
 
 This role-based application showcases my ability to architect and develop complex systems, effectively utilizing modern technologies and best practices in software development."
+
+TOOLS USED:- VSCODE  POSTMAN   MYSQL-WORKBENCH
